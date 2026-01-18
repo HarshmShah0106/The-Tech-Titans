@@ -134,8 +134,4 @@ Suitable for:
 
 
 
----
 
-## ⭐ License
-
-Released for educational and research purposes.
