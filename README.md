@@ -20,6 +20,12 @@ AI-Edge aims to:
 
 ---
 
+![WhatsApp Image 2026-01-18 at 3 32 38 PM](https://github.com/user-attachments/assets/6e75496c-14b7-4ef1-bd10-9b28b72ca245)
+
+
+![WhatsApp Image 2026-01-18 at 3 32 38 PM2](https://github.com/user-attachments/assets/894719d9-d6ae-405b-976b-bc11b7599c7a)
+
+
 ## ✨ Key Features
 
 - Multiple local AI models via Ollama
